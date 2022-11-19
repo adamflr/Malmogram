@@ -1,0 +1,102 @@
+ID;Tema;Motiv;Kommentar;Källor;Graftyp
+1;Befolkning;Befolkning (y) mot tid (x);;SCBs befolkningsdata;Tidsdiagram
+2;Befolkning;Befolkningsförändring mot tid;;SCBs befolkningsdata;Tidsdiagram
+3;Befolkning;Befolkning som andel av landets befolkning;;SCBs befolkningsdata;Tidsdiagram
+4;Befolkning;Befolkning som andel av Stormalmös befolkning;;SCBs befolkningsdata;Tidsdiagram
+5;Befolkning;Malmö mot Sverige - path över tid;;SCBs befolkningsdata;Linjediagram - två variabler
+6;Befolkning;Befolkning mot tid - Malmö och krans;;SCBs befolkningsdata;Tidsdiagram
+7;Befolkning;Befolkning mot tid - historia och prognos;;SCBs befolkningsdata och Malmö stadskontor;Tidsdiagram
+8;Idrott;MFF-herr - vinstandel över tid;;SvFF (indirekt);Tidsdiagram
+9;Idrott;MFF-herr - Alla matcher i en graf;;SvFF (indirekt);Punktdiagram med färgindikator
+10;Idrott;MFF-herr - Alla matcher 2008-2020;;SvFF (indirekt);Punktdiagram med teckenindikator
+11;Idrott;MFF-herr - kumulativt resultat;;SvFF (indirekt);Linjediagram
+12;Idrott;MFF-herr - Gjorda och insläppa per säsong;;SvFF (indirekt);Tidsdiagram
+13;Idrott;MFF-herr - Gjorda mot insläppta;;SvFF (indirekt);Spridningsdiagram
+14;Idrott;MFF-herr - Mesta motståndare med kumulativt resultat;;SvFF (indirekt);Stapeldiagram
+15;Geografi;Delområden;;Malmö stad (delområden). OSM (stadsdelar). SCB (DeSO);Karta
+16;Geografi;Stadsdelar;;Malmö stad (delområden). OSM (stadsdelar). SCB (DeSO);Karta
+17;Geografi;Storleksjämförelse;Planering;Malmö stad (delområden). OSM (stadsdelar). SCB (DeSO);Karta
+18;Geografi;Separerade stadsdelar;;Malmö stad (delområden). OSM (stadsdelar). SCB (DeSO);Karta
+19;Geografi;DeSO;;Malmö stad (delområden). OSM (stadsdelar). SCB (DeSO);Karta
+20;Geografi;Stadsdelar efter storlek;;Malmö stad (delområden). OSM (stadsdelar). SCB (DeSO);Stapeldiagram
+21;Geografi;Stadsdels storlek mot länders storlek;Planering;Malmö stad (delområden). OSM (stadsdelar). SCB (DeSO);Karta
+22;Klimat;Lufttemperatur (medel) mot år per station;;SMHI-väderstationsdata;Tidsdiagram
+23;Klimat;Lufttemperatur (max och min) mot år per station;;SMHI-väderstationsdata;Tidsdiagram
+24;Klimat;Lufttemperatur över året per 60- och 10-tal;;SMHI-väderstationsdata;Tidsdiagram
+25;Klimat;Lufttemperatur över året, differens 60-tal mot 10-tal;;SMHI-väderstationsdata;Tidsdiagram
+26;Klimat;Lufttemperatur per årsdag och timme, 2010-tal;;SMHI-väderstationsdata;2d-täthet, mosaikdiagram (?)
+27;Klimat;Lufttemperatur mot timme per månad, 2000-tal;;SMHI-väderstationsdata;Tidsdiagram
+28;Klimat;Lufttemperatur mot årsdag, 1950-idag;;SMHI-väderstationsdata;Stapeldiagram
+29;Befolkning;Befolkningspyramid 2020;;SCBs befolkningsdata;Befolkningspyramid (stapeldiagram)
+30;Befolkning;Befolkning mot ålder efter kön;;SCBs befolkningsdata;Stapeldiagram
+31;Befolkning;Könskvot mot ålder;;SCBs befolkningsdata;Tidsdiagram
+32;Befolkning;Ålderfördelning mot år, fyllda staplar;;SCBs befolkningsdata;Stapeldiagram
+33;Befolkning;Befolkning per åldergrupp mot år;;SCBs befolkningsdata;Linjediagram
+34;Befolkning;Andel av befolkningen per åldersgrupp mot år;;SCBs befolkningsdata;Tidsdiagram
+35;Befolkning;Antal per kön - path över tid;;SCBs befolkningsdata;Linjediagram - två variabler
+36;Befolkning;Civilstånd, uppdelade staplar per år;;SCBs befolkningsdata;Stapeldiagram
+37;Befolkning;Civilstånd vid 30;;SCBs befolkningsdata;Cirkeldiagram
+38;Klimat;Ridgeplot med fördelning av temperatur per månad;;SMHI-väderstationsdata;Ridgegraf
+39;Befolkning;Befolkningspyramid 1970 - 2020 (var tionde år);;SCBs befolkningsdata;Befolkningspyramid (stapeldiagram)
+40;Befolkning;Befolkningspyramid 1978 - 2020 (animerad);;SCBs befolkningsdata;Befolkningspyramid (stapeldiagram)
+41;Politik;Cirkeldiagram av röstandelar (riksdagsval) över tid;;SCBs demokratidata;Cirkeldiagram
+42;Politik;Röstandelar över tid (linje per parti);;SCBs demokratidata;Tidsdiagram
+43;Politik;Andel i Sverige mot andel i Malmö;;SCBs demokratidata;Linjediagram - två variabler
+44;Politik;Jämförelse mellan andel i Sverige och andel i Malmö;;SCBs demokratidata;Spridningsdiagram med faktor som axel (differensgraf)
+45;Politik;Jämförelse mellan andel i Sverige och andel i Malmö, centrerad kring andel i Sverige;;SCBs demokratidata;Stapeldiagram (horisontella staplar)
+46;Politik;Jämförelse mellan andel i Sverige och andel i Malmö, centrerad kring andel i Sverige, log-skala;;SCBs demokratidata;Stapeldiagram (horisontella staplar)
+47;Politik;Stapeldiagram över röstandelar, fyllda staplar;;SCBs demokratidata;Stapeldiagram (fyllda staplar)
+48;Politik;Cirkeldiagram över tid, animerat;;SCBs demokratidata;Cirkeldiagram
+49;Politik;Röstandelar per kommun (Malmö och kranskommuner);;SCBs demokratidata;Linjediagram
+50;Politik;Lådagram, röstandelar för landets kommuner, Malmö som punkt;;SCBs demokratidata;Lådagram
+51;Politik;Röstandel per parti, multipla parvisa linjediagram;;SCBs demokratidata;Linjediagram - två variabler
+52;Politik;Spridningsdiagram, alla partier mot varandra (parvis), Malmö som röd punkt;;SCBs demokratidata;Spridningsdiagram
+53;Politik;Score-plot, från PCA över landets kommuner;;SCBs demokratidata;Spridningsdiagram
+54;Befolkning;Civilstånd per ålder, horisontalt stapeldiagram. Efter en du Bois-graf;;SCBs befolkningsdata;Stapeldiagram (fyllda staplar)
+55;Natur;Malmö trädkarta, reproduktion av original;;Malmö stads trädkarta;Karta
+56;Natur;Malmö trädkarta, efter kategori och ursprung;;Malmö stads trädkarta;Karta
+57;Natur;Malmö trädkarta, efter planteringsårtionde;;Malmö stads trädkarta;Karta
+58;Natur;Malmö trädkarta, täthetskarta;;Malmö stads trädkarta;Karta
+59;Natur;Antal träd per årtionde, fyllda efter kategori;;Malmö stads trädkarta;Stapeldiagram
+60;Natur;Antal träd per årtionde, fylla efter kategori och ursprung;;Malmö stads trädkarta;Stapeldiagram
+61;Natur;Antal träd per år sedan 2000;;Malmö stads trädkarta;Stapeldiagram
+62;Natur;Antal träd bland 20 vanligaste arter;;Malmö stads trädkarta;Stapeldiagram
+63;Natur;Malmö trädkarta, tio vanligaste arter;;Malmö stads trädkarta;Stapeldiagram
+64;Natur;Antal träd, vanligaste arter, Kungs- och slottsparken;;Malmö stads trädkarta;Stapeldiagram
+65;Natur;Trädkarta, Kungs- och slottsparken;;Malmö stads trädkarta;Karta
+66;Natur;Antal träd, vanligaste arter, Pildammsparken;;Malmö stads trädkarta;Stapeldiagram
+67;Natur;Trädkarta, Pildammsparken;;Malmö stads trädkarta;Karta
+68;Natur;Trädkarta, Pildammsparken, efter planteringsår;;Malmö stads trädkarta;Karta
+69;Kultur;Konstkarta, Malmö stads konstkarta;;Malmö stads konstkarta;Karta
+70;Kultur;Konst, antal verk per material;;Malmö stads konstkarta;Stapeldiagram
+71;Kultur;Konst, verk per år;;Malmö stads konstkarta;Punktdiagram
+72;Kultur;Konst per årtionde på karta;;Malmö stads konstkarta;Karta
+73;Kultur;Konst per konstnär;;Malmö stads konstkarta;Stapeldiagram
+74;Kultur;Konstverk per kön;;Malmö stads konstkarta;Cirkeldiagram
+75;Kultur;Konstverk per år;;Wikipedia;Punktdiagram
+76;Kultur;Konstverk per årtionde på karta;;Wikipedia;Karta
+77;Kultur;Konstverk per kön;;Wikipedia;Cirkeldiagram
+78;Kultur;Konstverk per kön och årtionde;;Wikipedia;Cirkeldiagram
+79;Kultur;Konstverk per konstnär;;Wikipedia;Stapeldiagram
+80;Kultur;Konstverk per kön på karta;;Wikipedia;Karta
+81;Transport och kommunikationer;Årlig resor (biltrafik);;Oresund.com, via Trafikverket;Stapeldiagram
+82;Transport och kommunikationer;Fullständig tidslinje (biltrafik);;Oresund.com, via Trafikverket;Tidsdiagram
+83;Transport och kommunikationer;Resor per månad, 2017-2021;;Oresund.com, via Trafikverket;Tidsdiagram
+84;Transport och kommunikationer;Mosaik, antal resor per månad;;Oresund.com, via Trafikverket;Mosaik
+85;Transport och kommunikationer;Årliga resor (biltrafik), uppdelat efter fordonstyp;;Oresund.com, via Trafikverket;Stapeldiagram
+86;Transport och kommunikationer;Årliga resor uppdelat i smågrafer per fordonstyp;;Oresund.com, via Trafikverket;Tidsdiagram
+87;Transport och kommunikationer;Månadsvariation per fordonstyp;;Oresund.com, via Trafikverket;Tidsdiagram
+88;Transport och kommunikationer;Resor per månad, småfönster efter fordonstyp;;Oresund.com, via Trafikverket;Tidsdiagram
+89;Transport och kommunikationer;Tågresor per år;;Oresund.com, via Trafikverket;Tidsdiagram
+90;Transport och kommunikationer;Tåg per år, till och från Malmö;;Oresund.com, via Trafikverket;Tidsdiagram
+91;Transport och kommunikationer;Kumulativt antal tåg, till och från Malmö;;Oresund.com, via Trafikverket;Tidsdiagram
+92;Transport och kommunikationer;Kumulativ differens i antal tåg, till och från Malmö;;Oresund.com, via Trafikverket;Tidsdiagram
+93;Utbildning;Antal kurser per termin;;UHR - Universitets- och högskolerådet;Stapeldiagram
+94;Utbildning;Antal förstahandssökande per termin;;UHR - Universitets- och högskolerådet;Stapeldiagram
+95;Utbildning;Antal accepterade sökande per termin;;UHR - Universitets- och högskolerådet;Stapeldiagram
+96;Utbildning;Antal kurser per ämne;;UHR - Universitets- och högskolerådet;Stapeldiagram
+97;Utbildning;Antal sökande per program;;UHR - Universitets- och högskolerådet;Stapeldiagram
+98;Utbildning;Antal accepterade sökande per termin, uppdelat efter kön;;UHR - Universitets- och högskolerådet;Stapeldiagram
+99;Utbildning;Antal sökande till specialpedagogprogrammet;;UHR - Universitets- och högskolerådet;Stapeldiagram
+100;Utbildning;Antal sökande till program, total över tid;;UHR - Universitets- och högskolerådet;Linjediagram
+101;Idrott;MFF-herr - resultatutfall på hemmaplan (2008-2021);;SvFF (indirekt);Stapeldiagram
