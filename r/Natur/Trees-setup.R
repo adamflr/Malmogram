@@ -22,6 +22,6 @@ dat_trees_geo <- st_read("Data/Natur/Trees.geoJSON")
 dat_trees <- dat_trees_geo %>%
   mutate(X = st_coordinates(dat_trees_geo)[,1],
          Y = st_coordinates(dat_trees_geo)[,2],
-         Årtionde = 10 * floor(planteringsar / 10)) %>%
+         Årtionde = 10 * floor(plant_ar / 10)) %>%
   as_tibble() %>% 
   filter(X < 130000)
