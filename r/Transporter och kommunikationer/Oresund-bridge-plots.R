@@ -304,4 +304,4 @@ mg103 <- dat_ore %>%
   theme_bridge() +
   theme(strip.text.y.left = element_text(angle = 0, hjust = 1))
 mg103
-ggsave("Output/Transporter och kommunikationer/103-Motortrafik-Oresundsbron-per-typ.png", mg103, width = 8, height = 9)
+# ggsave("Output/Transporter och kommunikationer/103-Motortrafik-Oresundsbron-per-typ.png", mg103, width = 8, height = 9)

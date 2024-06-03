@@ -1,0 +1,643 @@
+---
+- id: 1
+  title: Malmös befolkning över tid
+  header: Upp - ner - upp
+  description: >
+    Malmö stads befolkningsminskning under 70- och 80-talet ger en ganska
+    dramatisk kurva över tid. En liten spegling av hela landets utveckling från
+    bondesamhälle, till industrisamhälle, till nedläggningssamhälle till 
+    vad-det-nu-är-det-är-nu-samhälle.
+    
+    Jag vill minnas att datan här är en sammanslagning av en datamängd över
+    äldre befolkningsantal per stad och SCBs moderna kommunstatistik. Stadsgränserna är 
+    säkert lite flytande mellan datamängderna men eftersom staden brukade vara 
+    betydligt glesare spelar det nog mindre roll.
+    
+    *Augusti 2023*
+- id: 2
+  title: Befolkningsförändring per år, 1950 - 2020
+  header: Ökning eller minskning mot föregående år
+  description: >
+    En annan bild på stadens befolkningsantal - denna gång förändring mot 
+    föregående år snarare än totalen. Vi ser återigen den starka minskningen 
+    under 70-talet, i synnerhet 1973 då kommunantalet minskar med runt sex 
+    tusen.
+    
+    Om jag gjorde om det här grafen idag hade vi fått en finare indelning 
+    av y-axeln. Men men...
+    
+    *Augusti 2023*
+- id: 3
+  title: Andelen stockholmare, göteborgare och malmöbor
+  header: Run with the dogs tonight, in suburbia
+  description: >
+    Malmös befolkning minskar under 70-talet (och delvis under 80-talet) men 
+    det är en utveckling som sker även i Stockholm och Göteborg. Byggnation i  
+    städernas ytterområden och bättre kommunikationer sägs vara 
+    anledningen. I grafen ser vi utvecklingen för andelen svenskar i landets 
+    fem största städer. 
+    
+    *Augusti 2023*
+- id: 4
+  title: Andel malmöbor i stormalmö
+  header: Hur stor andel av de boende i Malmö eller kranskommuner bor i Malmö?
+  description: >
+    Ett linjediagram över andelen av invånare i *stormalmö* som bor i 
+    *lill-malmö*. Malmös minskade invånarantal under 70-talet sammanfaller med 
+    ökningar i Kävlinge och Vellinge. Kanske fick folk en väldig iver att bo på 
+    orter som slutar med *inge*. Tågräls och motorvägar spelar kanske också in. 
+    
+    *Augusti 2023*
+- id: 5
+  title: Malmös befolkning mot Sveriges befolkning
+  header: Utvecklingen av Sveriges och Malmös invånarantal.
+  description: >
+    En slags utvecklingskurva med Sveriges befolkning på x-axeln och Malmös 
+    befolkning på y-axeln. Om Malmö var en konstant andel av landets befolkning 
+    hade kurvan följt den raka linjen. Både landet och Malmö ökar över tid men 
+    kurvan ligger längre från linjen under 70- och 80-talet - den tid då färre 
+    svenskar var malmöbor. Kurvan går aldrig över linjen - andel svenskar som 
+    är malmöbor har aldrig varit högre än nu (i alla fall inte efter 1950). 
+    
+    *Augusti 2023*
+- id: 6
+  title: Invånare för Malmö, övriga stormalmö och Lund
+  header: Två kurviga och en rak.
+  description: >
+    Befolkningskurvor för Malmö, övriga stormalmö och Lund. Malmö och 
+    kranskommuner har varierande utveckling över tid, i synnerhet Malmös 
+    minskning under 70-talet. Lund har en mer stabil linjär utveckling. 
+    
+    Vad ingår i *stormalmö* då? Trelleborg, Burlöv, Kävlinge, Lomma, 
+    Staffanstorp, Svedala, Vellinge, Eslöv, Höör, Skurup. Ganska generöst, jag 
+    vet. 
+    
+    *Augusti 2023*
+- id: 7
+  title: Kommunens befolkningsprognos
+  header: En *mycket* spännande prognos.
+  description: >
+    Malmö har en ganska linjär befolkningsutveckling sedan 90-talet och kommunens 
+    officiella prognos speglar det: utvecklingen de senaste tio åren fortsätter 
+    i tio år till. Jag letade ganska länge efter den här prognosen (eftersom den 
+    omnämns i samband med det mer långsiktiga halvmiljonsmålet) och var lite 
+    besviken över att den inte var mer avancerad. Bra dag.
+    
+    *Augusti 2023*
+- id: 8
+  title: MFF vinstandel per säsong
+  header: 110 goda år. Två perfekta år.
+  description: >
+    Grafen visar vinstandel på hemma- och bortaplan för Malmö FF (herr). Två 
+    gånger har man vunnit samtliga hemmamatcher, 1949 och 1950. Den här grafen 
+    är lite svårläst, men kan se höjdpunkter på 70- och 80-talen och det svåra 
+    90-talet.
+    
+    *Augusti 2023*
+- id: 9
+  title: MFFs matcher i Allsvenskan
+  header: MFFs allsvenska matcher från 1931 till 2021.
+  description: >
+    En punkt per match. Färg efter utfall. Ett blått år är ett gott år. X-axeln 
+    är ett lite lustigt val här. Jag ville att veckodagar skulle matcha så att 
+    helgmatcher blir en vertikal rad. Allsvenskan gick från vår-höst till 
+    höst-vår 1959 men behöll ett långt sommaruppehåll i nästan tjugo år till. 
+    Det var ju också färre matcher på den tiden. 
+    
+    *Augusti 2023*
+- id: 10
+  title: MFFs matcher i Allsvenskan 2008-2021
+  header: MFFs resultat i 30-matchers-allsvenskan.
+  description: >
+    En ikon per match. Ordnade efter hemma- och bortamatcher. Symbol visar 
+    utfall. Ett rakt blått streck för en serie vinster i rad. Inga hemmaförluster 
+    under 2020. En lång serie segrar under 2010. 
+    
+    *Augusti 2023*
+- id: 11
+  title: MFF summerat resultat i Allsvenskan
+  header: Vinster minus förluster mot antal spelade matcher.
+  description: >
+    För MFF (herr) i allsvenskan ser vi antal spelade matcher på x-axeln och 
+    visnter minus förluster på y-axeln. En linje för hemmamatcher och en för 
+    bortamatcher. Vid slutet av 2021 hade MFF en plus-statistik på drygt 400 matcher 
+    på hemmaplan och 100 matcher på bortaplan. Under lagets första säsonger 
+    i Allsvenskan hade man fler förluster än vinster (linjen under nollan). 
+    Hemmalinjen är nästan alltid stigande (man har nästan alltid haft plus-statistik 
+    hemma) medan bortalinjen tidvis sjunker (t.ex. i slutet av 90-talet). 
+    
+    *Augusti 2023*
+- id: 12
+  title: MFF (herr) - målsnitt i Allsvenskan
+  header: Målsnitt för insläppta och gjorda, hemma och borta.
+  description: >
+    I ännu en rörig graf ser vi målsnitt (total delat på antal matcher) för MFF 
+    i Allsvenskan. De övre linjerna är målsnittet för gjorda mål (som man vill 
+    ha många av) och de nedre är målsnittet för insläppta mål (som man vill ha 
+    få av). Den blå linjen är hemmamatcher och en den röda är bortamatcher. Det 
+    högsta snittet för gjorda mål är 1949, där snittet är över 4 mål per match. 
+    Det är inte helt sällsynt att målsnittet borta är bättre än målsnittet hemma. 
+    
+    *Augusti 2023*
+- id: 13
+  title: MFF (herr) - gjorda mot insläppta mål per säsong
+  header: Fler gjorda mål + färre insläppta mål = guld.
+  description: >
+    Ett spridningsdiagram med målsnittet för gjorda mål på x-axeln och målsnittet 
+    för insläppta mål på y-axeln. Vänster ruta för hemmamatcher och höger ruta för 
+    bortamatcher. En punkt per allsvensk säsong och punktens färg anger om MFF blev 
+    mästare (gul punkt) eller ej (blå punkt). Strecket på diagonalen motsvarar 
+    situationen där gjorda mål är lika med insläppta mål, punkter under det strecket 
+    anger säsonger då snittet gjorda mål överstiger snittet för insläppta mål. Mästarsäsonger 
+    är förstås ofta säsonger där snittet för gjorda överstiger snittet för insläppta. 
+    Det är dock ingen garanti - se t.ex säsongen 1951-52, en icke-mästar säsong med 
+    ett väldigt lågt snitt för insläppta mål på hemmaplan, eller säsongen 1970, en 
+    mästarsäsong där insläppta bortamål överstiger gjorda bortamål. 
+    
+    *Augusti 2023*
+- id: 14
+  title: MFF (herr) - vinster minus förluster mot vanligaste motståndare
+  header: Norrköping borta är malmökryponit.
+  description: >
+    Det här är MFFs (herr) resultat i allsvenskan mot utvalda motståndare. För 
+    en given motståndare visar den vänstra biten plus- eller minusstatistik på 
+    hemmaplan och den högra biten plus- eller minusstatistik på bortaplan. Grönt 
+    är plusstatistik för MFF och rött minusstatistik. Som statistik används vunna 
+    minus förlorade. X-axeln ger antalet spelade matcher och går vänsterut för den 
+    vänstra grafen och högerut för den högra grafen.
+    
+    MFF har tydlig plusstatistik mot de flesta motståndarna på hemmaplan men inte 
+    alltid på bortaplan. Mot IFK Norrköping har MFF klart fler förluster än vinster 
+    på bortaplan. Siffrorna bredvid grafen anger vunna, oavgjorda och förlorade 
+    matcher. 
+    
+    *Augusti 2023*
+- id: 15
+  title: Stadsdelar
+  header: Malmös indelning i stadsdelar (kommunindelning 1996-2013).
+  description: >
+    Stadsdelning är alltid ett kontroversiellt ämne. Kommunen har genom åren 
+    använt ett par olika indelningar, vissa mer informativa än andra. Den här 
+    indelningen verkar ha använts från 1996 till 2013 för att sedan ersättas med 
+    en grövre indelning efter väderstreck.  
+    
+    *Augusti 2023*
+- id: 16
+  title: Malmös delområden
+  header: En fin indelning som förmodligen inte spelar någon roll.
+  description: >
+    En karta med utplacerade delområden. 
+    
+    *Augusti 2023*
+- id: 18
+  title: Malmös delområden, uppdelade
+  header: Dekonstruerad stad.
+  description: >
+    Malmös delområden som separata fönster av någon anledning. De flesta områden 
+    är tråkigt rektangulära, men det finns också några mer dynamiska områden som 
+    Kronborg (rovfågelsfot) och Östra Skrävlinge (elvisfrisyr). 
+    
+    *Augusti 2023*
+- id: 19
+  title: SCBs demografiska statistikområden
+  header: En ännu finare indelning i delområden.
+  description: >
+    SCB använder i indelning i DeSo (demografiska statistikområden) som jag tror 
+    finns för hela landet. Namnen ges av kommunkod och ett områdes-ID. Områdena 
+    ska ha ungefär lika många invånare (två-tre tusen). De används inte i dagligt 
+    tal så ofta. Sällan man hör någon säga att de flyttat till en tvåa i 
+    1280C2670. 
+    
+    *Augusti 2023*
+- id: 20
+  title: Malmös stadsdelar efter storlek
+  header: Vissa områden är större än andra.
+  description: >
+    Stapeldiagram över storlek för Malmös stadsdelar. Delområdena (färgena) är 
+    ordnade i storleksordning; sedan är stadsdelarna indelade i storleksordning inom 
+    delområdena. Södra Sallerup är Malmös största stadsdel. 
+    Limhamn-Bunkeflo är det största delområdet men har inte den 
+    största stadsdelen. 
+    
+    *Augusti 2023*
+- id: 21
+  title: Malmös stadsdelar som länder
+  header: Stadsdelar mot länder om matchade efter storlek.
+  description: >
+    Okej, kanske lite mycket kreativitet här. Malmös stadsdelar som länder om 
+    de ordnas efter storlek. Största land markerat med största stadsdel, näst 
+    största land markerat med näst största stadsdel, och så vidare. Inte så 
+    informativt, om jag får vara helt ärlig. 
+    
+    *Augusti 2023*
+- id: 22
+  title: Hett i Malmö
+  header: Årmedeltemperatur för tre väderstationer i Malmö.
+  description: >
+    SMHI har öppen data för en stor mängd väderstationer över långt tid. Här ser 
+    vi årsmedeltemperatur för de tre väderstationer som funnits i Malmö. Datan 
+    går ända tillbaks till 1917 (!). Den nuvarande stationer ligger en bit utanför 
+    centrum. Den här grafen visar det rena årsmedelvärdet vilket är ganska 
+    ointressant eftersom datan inte är identisk för de tre stationerna, t.ex. finns 
+    mätningar för varje timme från den nuvarande stationen medan den äldre datan 
+    är mindre tät. 
+    
+    *Augusti 2023*
+- id: 23
+  title: Särskilt kallt - särskilt varmt
+  header: Minimum- och maximimumtemperatur per år.
+  description: >
+    Grafen anger min och max för temperaturen i Malmö från 1917 till 2021. Data 
+    är hämtat från de tre SMHI-stationer som funnits eller finns i Malmö. Den 
+    kallaste mätningen är drygt -25 °C (1942) och den varmaste runt 33 °C (1947). 
+    Stationer är inte fullt jämförbara på grund av ändringar i läge och tid för 
+    mätning. 
+    
+    *Augusti 2023*
+- id: 24
+  title: Medel per dag för två årtionden
+  header: Temperaturen för ett medelår på 1960- och 2010-talet.
+  description: >
+    Här ser vi medeltemperatur (mätningar klockan tolv) per dag för två årtionden, 1960-talet 
+    och 2010-talet. Den röda linjen är 1960 och den gröna 2010. Data är från två skilda 
+    väderstationer i Malmö. Bakomliggande linjer är varje årsserie. Stationer är 
+    inte fullt jämförbara på grund av ändringar i läge.  
+    
+    *Augusti 2023*
+- id: 25
+  title: Temperaturskillnad mellan 1960-talet och 2010-talet
+  header: Uppmätt temperatur är något högre på 2010-talet.
+  description: >
+    En fortsättning på föregående graf (nr 24) men nu med differensen istället för 
+    två separata linjer. Medelvärderna för 2010-talet är i regel högre än för 1960-talet. 
+    I synnerhet kring december-januari. 
+    
+    *Augusti 2023*
+- id: 26
+  title: Temperatur per dag och timma
+  header: Dag på y-axeln, tid på x-axeln, färg efter temperatur.
+  description: >
+    För en viss dag på året och en vissa timma ger färgen medeltemperatur för 2010-talet. 
+    Data från SMHIs väderstation i Malmö. Det är tydligen kallare på natten och på vintern... 
+    
+    *Augusti 2023*
+- id: 27
+  title: Temperatur per timma och månad
+  header: Ett linjediagram över medeltemperatur över dygnet uppdelat efter månad.
+  description: >
+    För varje måndag på året ser vi en linje för medeltemperatur över dygnet. Grunddatan 
+    är för 2000 - 2020. Variationen är större på sommaren. Det går fortare att bli 
+    värmd av dagen än kyld av natten. 
+    
+    *Augusti 2023*
+- id: 28
+  title: Temperatur i Malmö klockan 12, 1950 till 2019
+  header: Middagstemperatur för varje dag på 70 år.
+  description: >
+    Ett slags stapeldiagram där stapelns höjd anger temperaturen klockan 12 i Malmö 
+    för varje dag från 1950 till 2019. Varje småfönster är ett år och varje rad av 
+    fönster är ett årtionde. Stapelns färg anger om temperaturen den dagen är 
+    lägre (blå) eller högre (röd) än mediantemperaturen den dagen över hela perioden 
+    (1950 - 2019). Medianen är ett mått som delar en datamängd i två delar så att 
+    hälften av värdena är över medianen och hälften är över medianen. En röd stapel 
+    anger alltså en årsdag som är bland de femtio varmaste procenten för den dagen på 
+    året.
+    
+    Om det blev varmare över tid skulle vi se att de röda staplarna blir vanligare 
+    ju närmre vår tid vi kommer.
+    
+    *Augusti 2023*
+- id: 29
+  title: Malmös befolkningspyramid 2020
+  header: Befolkningsgranen.
+  description: >
+    Malmös befolkningspyramid för 2020 ser inte särskilt mycket ut som en pyramid. 
+    Snarare som en julgran eller en ____. Tonåringar är sällsynta i Malmö, i alla 
+    fall som boende, medan det finns gott om 30-åringar. Vänster sida är kvinnor 
+    och höger sida är män. Det finns inga enorma skillnader mellan dem. Bland äldre 
+    är kvinnor förstås något vanligare.
+- id: 30
+  title: Malmös befolkning 2020
+  header: Två tant för varje gubb.
+  description: >
+    Antalet malmöbor per ålder, uppdelat efter kön. I den nedre figuren ser vi 
+    i vilka åldrar det finns fler kvinnor eller fler män. Kvinnor är övertaliga 
+    kring 25-30 och över 65, medan män är övertaliga bland unga och runt 30-50.
+- id: 31
+  title: Malmös könskvot
+  header: Antal kvinnor per man ökar med ålder.
+  description: >
+    För varje ålder (i år) visar linjen antal kvinnor delat på antal man. Fram 
+    till 65 danser linjen kring 1 (vilken motsvarar lika antal kvinnor som män). 
+    Efter 65 blir det fler och fler kvinnor: vid 85 går det en och en halv kvinna 
+    per man och framåt 90 går det två kvinnor per man.
+    
+    Man får väl göra vad man vill med den informationen.
+    
+    *September 2023*
+- id: 32
+  title: Malmös åldersfördelning över tid
+  header: Hastigt äldre - långsamt yngre.
+  description: >
+    För varje år sedan 1968 ser vi andelen av Malmös befolkning uppdelat efter 
+    ålder i tioårsklasser. I början av tidsperioden, under 70-talet, sjunker 
+    linjerna - de högre ålderklasserna blir relativt större då Malmös befolkning 
+    blir äldre. Under 80- och in i 90-talet vänder den utvecklingen - linjerna 
+    går uppåt då den yngre ålderklasserna blir relativt större. Mot slutet 
+    börjar flera linjer vända nedåt: blir Malmös återigen äldre?
+    
+    *September 2023*
+- id: 33
+  title: Mer av allt
+  header: Malmös befolkningsutveckling i ålderklasser.
+  description: >
+    Likt föregående graf (nr 32) men här med antal istället för andel. För varje 
+    ålder ger linjen antalet malmöbor vid den åldern eller yngre. Den översta 
+    linjen ger förstås det totala antalet malmöbor. 
+    
+    *September 2023*
+- id: 34
+  title: Malmös åldersfördelning över tid
+  header: Andelen personer per årsklass över tid.
+  description: >
+    Samma framställning som en föregående graf (nr 32) men här med varje årsklass 
+    istället för klasser om tio år. Kring 70- och 80-talet ökar andelen malmöbor i 
+    de högra åldrarna. Efter det vänder trenden - det blir fler unga människor i Malmö.
+- id: 35
+  title: Antal kvinnor mot antal män över tid
+  header: Killarna mot tjejerna - två lag vinner alltiiiid.
+  description: >
+    Antal kvinnor mot antal män. Varje punkt är ett år och färgen anger vilket.
+    Punkter under diagonalen är lägen med fler kvinnor än män och vice versa.
+    Den största skillnaden var under tiden med lägre befolkning (70- och 80-talen).
+    Under den senaste tidens befolkningsökning har kurvan kommit närmre 
+    diagonalen - antal kvinnor närmar sig antalet män.
+- id: 36
+  title: Malmöbor efter civilstånd
+  header: Inget att ta gift på.
+  description: >
+    En uppdelning av malmöborna efter civilstånd (gift, ogift, skild, 
+    änka/änkling) över tid från 1968 till 2020. Andelen gifta har minskat 
+    drastiskt från runt 60 procent till runt 40 procent. Andelen skilda och 
+    andelen ogifta har bägge ökat och utgör idag en klar majoritet av malmöborna.
+    Det är vanligare med änkor än med änklingar, men lång ifrån så mycket 
+    vanligare idag som det var på 80-talet.
+- id: 37
+  title: Malmös 30-åringar efter civilstånd
+  header: Gift dig och du ångrar dig...
+  description: >
+    Fördelningen av Malmös 30-åringar efter civilstånd, uppdelat efter år och kön. 
+    Färre och färre är gifta vid 30-års ålder. Mer förvånande är det färre och 
+    färre som är skilda, men man måste förstås gifta sig för att skilja sig. 
+    Bland kvinnor är något mer än varannan 30-åring gift, medan det hos män är 
+    något färre än hälften.
+- id: 38
+  title: Fördelning av middagstemperatur per månad och år
+  header: Sommaren är faktiskt ganska lång.
+  description: >
+    För varje månad och år (2001-2020) ser vi en kurva som anger fördelningen 
+    av temperaturer uppmätta för varje dag vid middagstid. En kurva åt vänster anger 
+    en kallare månad och en kurva till höger anger en varmare månad. Sommarmånaderna 
+    är föga förvånande varmare än vintermånaderna. Under sommaren är det runt 20 grader 
+    varmt medan det under vintern vanligen är några grader över noll.
+- id: 39
+  title: Malmös befolkningpyramid över tid
+  header: Från en cylinder till en julgran.
+  description: >
+    Malmös befolkningpyramid är en märklig best. Den vertikala y-axeln ger ålder 
+    och x-axeln ger antalet personer. Kvinnor ligger till vänster och män till höger och 
+    delfönstren ger olika år. Malmö har gått från en ganska rak befolkningsfördelning, 
+    i synnerhet efter tjugo års ålder under 80- och 90-talen till en mer kurvig 
+    åldersstruktur. Det sista illustrerade året 2020 har Malmö en stor andel 
+    människor i sena tjugo till tidiga trettioårsålder, vilket ger en lite lustig 
+    julgransliknande *pyramid*.
+- id: 41
+  title: Malmös röster i riksdagsvalen 1973-2018
+  header: Färre röstar och de som gör det är mer höger. 
+  description: >
+    För varje riksdagsval från 1973 till 2018 visas fördelningen av malmöbornas 
+    röster till riksdagsval. De röda bitarna för V och S blir mindre och mindre 
+    medan de blå bitarna, och sedan den gula biten, blir större. Andelen som inte 
+    röstar (här den grå biten) blir också större med åren. 
+- id: 42
+  title: Partiandelar enligt malmöborna
+  header: Utfall i riksdagsvalen 1973 till 2018 enligt röstande i Malmö. 
+  description: >
+    För varje parti ser vi andelen röster per riksdagsval. Endast röster från 
+    Malmö medräknade och endast partier i riksdagen vid valet 2018. S tappar 
+    stadigt röster. Andelen icke- röstande ökar över tid. 
+- id: 43
+  title: Riksdagsröster i landet mot röster i Malmö.
+  header: Fördelningen av röster i Malmö är överlag lik fördelningen i landet i stort. 
+  description: >
+    För varje parti visas andelen röster i riksdagsvalen för landet (x-axeln) 
+    mot andelen i Malmöbornas röster (y-axeln). Valåret anges av färgen med 
+    vitt för 1973 och svårt för 2018. De flesta partier ligger nära diagonalen: 
+    andelen i landet är lik andelen i Malmö.
+- id: 44
+  title: Malmös röster mot Sveriges röster 2018
+  header: Utfallet i riksdagsvalet 2018 som en jämförelse mellan röster i Malmö och röster i Sverige.
+  description: >
+    För varje parti visas andelen röster bland Malmös valkretsar (vit punkt) 
+    och andelen röster i Sverige i stort (svart punkt). Partier där den svarta 
+    punkten är till höger om den vita är partier med ett större relativt stöd i 
+    landet i stort än i Malmö. Malmö har en klart större andel vänsterpartiser, 
+    och klart lägre andel centerpartister och kristdemokrater än övriga landet. 
+    Andelen icke-röstande är också större i Malmö än i övriga landet.
+- id: 45
+  title: Skillnaden mellan Malmö och övriga landet i riksdagsvalet 2018
+  header: Fler vänsterpartister och icke-röstande, färre centerpartister och kristdemokrater.
+  description: >
+    Samma grunddata som en tidigare graf (nr 44) men här som en differens mellan 
+    valutfallet i Malmö och valutfallet i landet i stort. Partier med positivt värde 
+    har en större andel i Malmö än i övriga landet, och tvärtom för partier med ett 
+    negativt värde. Andelen icke-röstande är ungefär fem procentenheter större i 
+    Malmö än i övriga landet medan andelen centerpartister är nästan tre procentenheter 
+    lägre i Malmö än i övriga landet.
+- id: 47
+  title: Riksdagsröster från Malmö 1973 - 2018
+  header: Riksdagsvalen 1973-2018 om enbart röster från Malmö räknas.
+  description: >
+    Ett delat stapeldiagram för riksdagsvalen 1973 till 2018. Enbart med röster från 
+    Malmös valkretsar. Andelen icke-röstande ökar över tid medan andelen S-röster 
+    minskar. Under de senare valen växer SD stadigt, men även V, om än till 
+    mindre grad.
+- id: 48
+  title: Riksdagen enligt Malmö 1973 till 2018
+  header: Animation med röstfördelningen från Malmös valkretsar.
+  description: >
+    För varje år från 1973 till 2018 visas fördelningen av röster i riksdagsvalen. 
+    Enbart röster från Malmös valkretsar är medtagna. En animerad variant av 
+    tidigare grafer (nr 41, nr 47).
+- id: 49
+  title: Röstutfall i riksdagsvalet 2018 för Malmö och några grannar
+  header: Är Malmö rödare än sina grannar?
+  description: >
+    Utfallet i riksdagsvalet 2018 för Malmö och några grannkommuner. Kommunerna 
+    är ordnade i sjunkande ordning för Malmös största parti S. Lund röstar på MP; 
+    Svedala på SD; Vellinge på M. Stoppa pressarna!
+    
+    I kommer där fler rösta på S finns också fler icke-röstande - ett sånt där 
+    *demokratiskt underskottsproblem*.
+- id: 50
+  title: Malmös i riksdagsvalet 2018 ställt mot övriga kommuner
+  header: Malmö är lagom tråkigt och oextremt.
+  description: >
+    För varje parti ges en boxplot (sv. lådagram) och en utsatt prick för Malmö. 
+    Den underliggande data är andelen röster i riksdagsvalet 2018 per parti och 
+    kommun. I korthet ger lådagrammet en uppdelning av en datamängd så att en 
+    fjärdedel av observationerna ligger under boxen, en fjärdedel ligger i boxen 
+    under strecket, en fjärdedel i boxen över strecket, och en fjärdedel över 
+    boxen. Ju längre ut i kanten av datan den röda punkten ligger, desto mer 
+    speciellt är Malmös avsett det partiet. Texten till höger anger hur 
+    extremt Malmö är i termer av antalet kommuner med ett större/mindre utfall.
+    
+    Malmös mest extrema röstutfall gäller KD (enbart fem kommuner har en lägre 
+    andel KD-röster) och ej röstande (enbart åtta kommuner har en större andel 
+    icke-röstande).
+- id: 54
+  title: Malmös gifta och skilda 
+  header: Gift dig inte och du ångrar det också.
+  description: >
+    Malmös befolkning (2020) uppdelade efter ålder (y-axeln) och civilstånd 
+    (delstapelns färg). Barn *får* inte gifta sig, unga människor vill inte 
+    gifta sig, trettioåringar gifter sig, fyrtioåringar skiljer sig, åttioåringar 
+    blir änkor (och mer sällan änklingar).
+    
+    Den här grafen följer en klassisk graf från [Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois).
+- id: 55
+  title: Malmös trädkarta 
+  header: När är en samling träd en park?
+  description: >
+    En punkt för varje träd i Malmö. Källa är Malmö stads utmärkta trädkarta.
+    Träd finns i parker - det är den djupa slutsatsen vi kan dra.
+- id: 56
+  title: Malmös träd uppdelat efter artens typ (barr eller löv) och ursprung
+  header: Varför finns det så ont om barr?
+  description: >
+    Malmös träd, denna gång uppdelat efter om trädet är ett barr- eller lövträd och om det har
+    nordiskt eller exotiskt ursprung. Terminologin är hämtad från Malmö stads trädkarta - jag tycker 
+    inte ett träd från säg Tyskland ska anses exotiskt. Det finns klart fler lövträd än barrträd, men 
+    det verkar vara ganska jämt mellan träd med exotiskt och nordiskt ursprung.
+- id: 57
+  title: Malmös träd efter planteringsår
+  header: Det bästa tillfället att plantera ett träd var för tjugo år sedan...
+  description: >
+    Malmös träd efter planteringsår. De flesta träd är ganska unga (under 50 år eller så). I Malmö stads 
+    trädkarta har många träd planteringsåret 1900, vilket jag antar används som värde om planteringsår saknas.
+- id: 58
+  title: Täthetskarta för Malmös träd
+  header: Röd dimma över Pildammsparken.
+  description: >
+    Ju starkare röd färg, desto fler träd på den platsen. Den röda punkten i södra Malmö tror jag är 
+    områdena nära Katrinetorp.
+- id: 59
+  title: Antal träd efter planteringsårtionde
+  header: De flesta träd är runt tio-tjugo år gamla.
+  description: >
+    Malmös träd efter antal per årtionde. Uppdelat i barrträd och lövträd med 
+    antal till vänster och andel till höger. De flesta av Malmös nuvarande träd 
+    är ganska unga, planterade under 2000- och 2010-talen. Den horisontella axeln borde 
+    egentligen vara lite förskjuten här, för staplarna ska vara från årtiondets start 
+    till slut (t.ex. 1970 till 1979).
+- id: 60
+  title: Antal träd efter planteringsår, typ och ursprung
+  header: Snart är vi alla exotiska barrträd.
+  description: >
+    I grund samma graf som föregående (nummer 59) men nu uppdelat efter typ (barr eller löv) 
+    och ursprung (som i Malmö stads trädkarta anges som nordiskt eller exotiskt). De senaste tjugo 
+    åren har en större andel exotiska barrträd planterats än tidigare. Troligen på grund av specifika 
+    storplanteringar i södra Malmö. Andelen nordiska lövträd har minskat under samma period.
+- id: 61
+  title: Antal planterade träd efter typ under 2000-talet
+  header: Exotiska lövträd dominerar de senaste 21 åren.
+  description: >
+    För varje år sedan 2020 visar stapeln antalet planterade träd. Färgen anger en uppdelning efter 
+    typ och ursprung. Under perioden har främst exotiska träd (särskilt lövträd) planterats. Termen exotisk 
+    är förmodligen allt som inte är nordiskt - jag ser inte så många palmer i Malmö. År 2000 kanske används 
+    som alternativ när året inte är helt känt, eftersom det är så många träd där.
+- id: 62
+  title: Malmös vanligaste träd
+  header: Oxel och vitpil.
+  description: >
+    Malmös tjugo vanligaste trädarter och antalet av varje. Nordiska lövträd är de vanligaste 
+    malmöträden, med Oxel, Vitpil, Bok, Skogsek och Naverlönn bland topp sex. Parklinden (som klassats som *exotisk*) är 
+    den art som bryter sig in bland den gruppen; den är Malmös tredje vanligaste trädart. Malmö stads trädkarta har 
+    ibland dubletter bland sina träd, så jag är inte helt säker på antalen här.
+- id: 63
+  title: Malmös tio vanligaste arter och var man hittar dom
+  header: Arta på karta.
+  description: >
+    Malmös trädkarta men bara de tio vanligaste arterna. Så mycket bok i Pildammsparken. Så långa rader av pil.
+- id: 64
+  title: Slottsparkens vanligaste träd
+  header: Slottsparkens träd som antal av några olika arter.
+  description: >
+    Kan det verkligen finnas 530 bokar i Slotts- och Kungsparken? Ju mer jag tittar 
+    på den siffran desto mindre rimlig verkar den. I vilket fall. Källan är Malmö 
+    stads trädkarta. Parkens (parkernas?) vanligaste träd är bok följt av Naverlönn. 
+    Skogseken är på fjärde plats med 121 exemplar.
+- id: 65
+  title: Slottsparkens träd på karta
+  header: Det är som på Louvren.
+  description: >
+    Slotts- och Kungsparkens träd på karta. Färg efter art för några av de 
+    vanligaste arterna.
+- id: 66
+  title: Pildammsparkens vanligaste träd
+  header: Pildammsparkens träd som antal av några vanliga arter.
+  description: >
+    Jag är inte alls säker på att Malmös trädkarta (som är källan för de här siffrorna) 
+    stämmer. Det verkar inte helt sannolikt. Man kan förhoppningsvis lita på 
+    jämförelserna dock. Det är inte osant att Pildammsparken har en hel del bok.
+- id: 67
+  title: Pildammarnas träd på karta
+  header: Pildammsparkens träd som antal av några vanliga arter.
+  description: >
+    Pildammsparken från ovan med varje träd utmarkerat. Enorma mängder bok. Man kan påstå 
+    att Pildammsparken är norra Europas boktätaste park och ingen lär kunna säga 
+    emot. (Jag säger inte att det är så, bara att ingen bryr sig tillräckligt för att 
+    ifrågasätta.)
+- id: 68
+  title: Pildammsparken träd efter planteringsår
+  header: De flesta träd i Pildammsparken har stått där sedan parken först planterades.
+  description: >
+    För att skapa en park planterar man en stor mängd bok, sedan gör man nästan ingenting 
+    på hundra år. De allra flesta av Pildammsparkens träd kommer från när parken anlades 1928. 
+    Jag trodde länge att parken anlades direkt efter Baltiska utställningen 1914, men 
+    den är faktiskt något yngre än så.
+    
+    Det här min personliga favorit bland malmögrammen. De flesta av dem är faktiskt 
+    ganska meningslösa och korkade.
+- id: 81
+  title: Motortrafik över Öresundsbron
+  header: Stadig ökning - Stabil nivå - Stopp.
+  description: >
+    Antal motorfordon som kört över Öresundsbron sedan invigningen 2000. Under de första 
+    åren sker en stadig ökning, från strax under två miljoner år 2000 till strax under sju miljoner 2007. 
+    Därefter ligger antal fordon på en stabil nivå under en lång tid, för kraftigt minska 
+    under 2020 och 2021 (av någon anledning).
+- id: 82
+  title: Motortrafik över Öresundsbron per månad
+  header: Sommaren betyder bil.
+  description: >
+    Antal motorfordon över Öresundsbron visar ett mycket tydligt cykliskt mönster, 
+    beroende på att fler bilar över bron under sommarmånaderna. Vi ser också att 
+    många passade på att bila över en helt nyinvigt bro. Antalet som använde bron 
+    under dess första månad blev inte matchat på fyra år.
+- id: 83
+  title: Motortrafik över Öresundsbron per månad (2017 till 2022)
+  header: En närmre titt på pandemi-effekten
+  description: >
+    Likt en tidigare graf (nr 82) men här bara månaderna kring pandemin. De tre 
+    åren före pandemin ser väldigt lika ut. Under mars-april 2020 minskar antalet kraftigt. 
+    Mot slutet av perioden ser vi hur antalet bilar börjar närma sig det tidigare 
+    normala.
+- id: 101
+  title: MFF (herr) på hemmaplan mot vanliga malmöbesökare
+  header: Besökare från Göteborg är framgångsrika i Malmö.
+  description: >
+    MFFs (herr) hemmaprestationer för några bortalag, från 2008 till 2021. Hammarby 
+    har det svårt i Malmö och BK Häcken har det (relativt) lätt. Örebro, Gefle och AIK och 
+    inte vunnit under den observerade perioden.
+

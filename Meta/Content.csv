@@ -100,3 +100,5 @@ ID;Tema;Motiv;Kommentar;Källor;Graftyp
 99;Utbildning;Antal sökande till specialpedagogprogrammet;;UHR - Universitets- och högskolerådet;Stapeldiagram
 100;Utbildning;Antal sökande till program, total över tid;;UHR - Universitets- och högskolerådet;Linjediagram
 101;Idrott;MFF-herr - resultatutfall på hemmaplan (2008-2021);;SvFF (indirekt);Stapeldiagram
+102;Transport och kommunikationer;Bilar mot lastbilar;;Oresund.com, via Trafikverket;Linjediagram - två variabler
+103;Transport och kommunikationer;Fordon över tid efter fordonstyp;;Oresund.com, via Trafikverket;Bubbeldiagram, enkel linje
